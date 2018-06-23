@@ -4,6 +4,10 @@ The **Made with siimple** and **Plugin for siimple** badges that can be added in
 
 | Badge | Style | Path |
 |-------|-------|------|
+| ![Made with siimple](made-rounded.svg) | Rounded | https://siimple.github.io/badge/made-rounded.svg |
+| ![Made with siimple](made-squared.svg) | Squared | https://siimple.github.io/badge/made-squared.svg |
+| ![Plugin for siimple](plugin-rounded.svg) | Rounded | https://siimple.github.io/badge/plugin-rounded.svg |
+| ![Plugin for siimple](plugin-squared.svg) | Squared | https://siimple.github.io/badge/plugin-squared.svg |
 
 ## Usage
 
